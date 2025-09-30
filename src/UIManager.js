@@ -94,7 +94,7 @@ class UIManager {
   createExportButton() {
     const btn = document.createElement("button");
     btn.type = "button";
-    btn.textContent = "Export geoJSON";
+    btn.textContent = "Export GeoJSON";
     Object.assign(btn.style, {
       display: "block",
       marginTop: "8px",
