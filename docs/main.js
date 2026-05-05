@@ -1,4 +1,4 @@
-import GeoJsonExportControl from "https://cdn.jsdelivr.net/gh/tjmsy/maplibre-gl-geojson-export/src/maplibre-gl-geojson-export.js";
+import GeoJsonExportControl from "https://cdn.jsdelivr.net/gh/tjmsy/maplibre-gl-geojson-export@0.1/src/maplibre-gl-geojson-export.js";
 
 const map = new maplibregl.Map({
   container: "map",
